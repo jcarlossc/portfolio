@@ -1,0 +1,58 @@
+.photo {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.photo-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+#container {
+    height: 100vh;
+}
+.section-1 {
+    height: 80%;
+}
+.section-padding {
+    padding: 30px;
+}
+.img-center {
+    text-align: center;
+}
+.menu {
+    font-size:17px;
+}
+.menu:hover {
+    color: rgb(224, 224, 224);
+    padding-top: 1px;
+    border-bottom: 2px solid white;
+}
+#title-panel {
+    font-size: 25px;
+}
+.bnt-git {
+    background-color: rgb(3, 85, 7);
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.bnt-git:hover {
+    color: rgb(92, 92, 248);
+}
+#git-icon {
+    margin-top: -7px;
+}
+.bnt-hover {
+    cursor: grab;
+}
+.bnt-hover:hover {
+    color: rgb(92, 92, 248);
+}
+.font-text {
+    font-size: 18px;
+}
